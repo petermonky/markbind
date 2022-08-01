@@ -60,7 +60,7 @@ export default {
 
     .toggle-site-nav-button {
         cursor: pointer;
-        height: 53px;
+        height: 100%;
         left: 0;
         padding: 15px;
         position: absolute;
